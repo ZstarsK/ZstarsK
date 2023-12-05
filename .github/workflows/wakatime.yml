@@ -17,13 +17,13 @@ jobs:
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
           SHOW_TIME: true
-          CODE_LANG: rust # optional
+          CODE_LANG: json # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML CMakeList.txt GitIgnore file# optional
           ### commit
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
