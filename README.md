@@ -5,7 +5,9 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+Total Time: 0 hrs 2 mins
+
 Vue   0 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
 ```
 
