@@ -12,18 +12,19 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
           SHOW_TIME: true
-          CODE_LANG: json # optional
+          CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML CMakeList.txt GitIgnore file# optional
+          IGNORED_LANGUAGES: YAML JSON TOML CMakeList.txt GitIgnore file
           ### commit
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
