@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```json
 Total Time: 0 hrs 6 mins
 
 GitIgnore file   0 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.17 %
