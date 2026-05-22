@@ -8,7 +8,7 @@ My Name is Kevin.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 264 hrs 19 mins
+Total Time: 264 hrs 18 mins
 
 Java                       152 hrs 45 mins       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.80 %
 Unknown                    24 hrs 31 mins        🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.28 %
